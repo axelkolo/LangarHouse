@@ -7,3 +7,4 @@ Un projet simple en construisant une application qui permet aux utilisateurs de 
 3- Gestion des commandes - Un service qui permet de créer et de récupérer des commandes.
 4- Notification Gateway - Un service qui permet d'envoyer une notification (email)
 
+Architecture design diagram at: C:\Users\axelk\Documents\Projects\LangarHouse\Langarhouse_Diagram.png
