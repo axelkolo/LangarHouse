@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask
+instance/
+.webassets-cache
+
+# Environnement virtuel
+venv/
+ENV/
+
+# Fichiers de configuration
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.xlsx
+*.xls
+
+# Fichiers spécifiques à votre projet
+/.env
